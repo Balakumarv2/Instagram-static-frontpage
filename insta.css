@@ -1,0 +1,112 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+
+}
+.one{
+    margin-left: 160px;
+}
+#fix{
+   
+    margin-left: 10px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.stcon {
+  display: flex;
+   margin-top: 15px;
+}
+.story-item {
+  text-align: center;
+  margin-left: 5px;
+}
+
+.story {
+  width: 40px;
+  height: 40px;
+  border: 2px solid gray;
+  border-radius: 50%;
+  overflow: hidden;
+ 
+}
+
+.story1 {
+  border-color: limegreen;
+}
+
+.story-text {
+  font-size: 10px;     
+ margin-top: 1px;
+  color: rgb(93, 89, 89);
+}
+#plus{
+   position:absolute;
+   margin-top: 24px;
+   margin-left: 7px;
+   font-size: 13px;
+}
+.story>img{
+    width: 100%;
+    height: 100%;
+}
+.me{
+    margin-top: 6px;
+}
+.name{
+    margin-left: 5px;
+    font-size: 10px;
+}
+.container{
+    position: absolute;
+    display: flex;
+    margin-top: 15px;
+    margin-left: 0px; 
+    
+}
+.save{
+    margin-left: 90px;
+}
+.container>.story-item>.story{
+     width: 30px;
+  height: 30px;
+  border:none;
+}  
+.dot{
+    margin-left: 190px;
+}
+.user{
+    position: absolute;
+    margin-left: 15px;
+    z-index: 3;
+    margin-top: 385px;
+}
+.mute{
+     position: absolute;
+    margin-left: 305px;
+    z-index: 3;
+    margin-top: 385px;
+
+}
+.user1{
+    position: absolute;
+    margin-left: 15px;
+    z-index: 3;
+    margin-top: 420px;
+}
+.mute1{
+     position: absolute;
+    margin-left: 305px;
+    z-index: 3;
+    margin-top: 420px;
+
+}
+.con2{
+    display: flex;
+    margin-top: 3px;
+}
+.set{
+    font-size: 13px;
+}
+.set1{
+    font-size: 15px;
+}
